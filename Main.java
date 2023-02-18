@@ -110,7 +110,7 @@ public class Main{
         Drobi drob101 = new Drobi();
         System.out.println("Значение по умолчанию: "+ drob91.chislitel + "/"+ drob101.znamenatel);
         drob9.delenie(drob91.chislitel, drob91.znamenatel, drob101.chislitel, drob101.znamenatel);
-        in.close()
+        in.close();
 
     }
     }
